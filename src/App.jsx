@@ -9,7 +9,6 @@ import { useNotes } from './hooks/useNotes';
 import { useGoals } from './hooks/useGoals';
 import { initAudio } from './utils/audio';
 import { THEMES } from './constants/themes';
-import { AIChat } from './components/AIChat';
 import './App.css';
 
 function App() {
@@ -45,8 +44,6 @@ function App() {
           <Goals goals={goals} theme={theme} />
         </div>
       </main>
-            <AIChat />
-
     </div>
   );
 }
