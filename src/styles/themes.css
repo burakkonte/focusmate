@@ -1,0 +1,3 @@
+[data-theme="light"]{--bg:#ffffff;--fg:#111111;--fg-muted:#666;--surface:#f7f7f8;--border:#e6e6e7;--accent:#2f67ff}
+[data-theme="dark"]{--bg:#0b0c10;--fg:#eaecef;--fg-muted:#9aa0a6;--surface:#111217;--border:#1f2026;--accent:#4c8dff}
+[data-theme="pink"]{--bg:#0f0f11;--fg:#ffeef7;--fg-muted:#c7a9b9;--surface:#1a1217;--border:#2a1d25;--accent:#ff6fae}
